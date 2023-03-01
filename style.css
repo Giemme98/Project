@@ -1,0 +1,89 @@
+
+
+
+body {
+  
+   font-family: "Barlow Condensed" , sans-serif;
+   
+}
+
+h2
+{
+  margin-top: 0;
+  font-weight: 200;
+  font-size: 36px;
+  margin-bottom: 6px; 
+  color: #000;
+}
+
+h3
+{
+  margin-top: 0;
+  font-weight: 900;
+}
+
+.container 
+{
+  max-width: 960px;
+  margin: auto;
+  text-align: center; 
+  padding-bottom: 48px;
+  padding-top: 48px;
+}
+
+.card {
+  border: 2px; color: #ebebeb;
+  background-color: white;
+  display: inline-block;
+  max-width: 300px;
+  border-radius: 6px;
+  overflow: hidden;
+  cursor: pointer;
+  box-shadow: 0px 6px 12px -6px black;
+}
+
+.card-image {
+  margin: auto;
+  width: 100%;
+  height: 100%;
+  
+}
+
+.card-body
+{
+  padding: 16px;
+} 
+.icon 
+{
+  margin-top: 12px;
+}
+
+.Ingredients
+{
+  margin: 0;
+  letter-spacing: 0.6px;
+  line-height: 1.6;
+  color: #000;
+}
+.list
+{
+color: #555555;
+}
+
+.Time
+ {
+ margin-top: 24px; 
+ letter-spacing: 0.6px;
+ color: #000;
+}
+
+.badge
+{
+  padding: 4px;
+  background-color:#111111 ;
+  color: white;
+  border-radius: 3px;
+  font-size: 13px;
+}
+
+
